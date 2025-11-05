@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Devapriyaa
 
-<!--
-**devapriyaa/devapriyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Data Analyst** with a strong foundation in **Python**, **SQL**, **Tableau**, and **Excel**.  
+I enjoy turning raw data into meaningful insights, building visualizations that tell clear stories, and exploring predictive techniques to uncover deeper patterns.
 
-Here are some ideas to get you started:
+💡 **Current focus:** refining my analytical, visualization, and modeling skills through real-world datasets and projects.  
+📊 **Interests:** business analytics, data visualization, and applied statistics.  
+🧠 **Mindset:** learn, build, iterate — and always stay curious.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tools & Technologies
+- **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn)
+- **Databases:** SQL (MySQL, PostgreSQL)
+- **Visualization:** Tableau, Excel, Power BI *(learning)*
+- **Other:** Jupyter Notebook, Git, GitHub
+
+---
+
+### 📚 What I'm working on
+- Analyzing open datasets to practice data cleaning and visualization  
+- Building dashboards and reports in Tableau  
+- Exploring machine learning basics for predictive analysis  
+
+---
+
+### 🌱 Currently Learning
+- Data storytelling and dashboard design  
+- Predictive analytics fundamentals  
+- SQL optimization techniques  
+
+---
+
+### 📫 Connect with me
+- [LinkedIn](www.linkedin.com/in/devapriyaa-b-940442175)  
+- [Email](mailto:bdevapriyaa@gmail.com)  
+
+---
+
+⭐ *“Turning curiosity into insight — one dataset at a time.”*
