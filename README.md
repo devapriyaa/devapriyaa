@@ -4,7 +4,7 @@ I'm a **Data Analyst** with a strong foundation in **Python**, **SQL**, **Tablea
 I enjoy turning raw data into meaningful insights, building visualizations that tell clear stories, and exploring predictive techniques to uncover deeper patterns.
 
 💡 **Current focus:** refining my analytical, visualization, and modeling skills through real-world datasets and projects.  
-📊 **Interests:** business analytics, data visualization, and applied statistics.  
+📊 **Interests:** business analytics, data visualization, applied statistics and exploring predictive modelling techniques.  
 🧠 **Mindset:** learn, build, iterate — and always stay curious.
 
 ---
